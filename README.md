@@ -24,4 +24,4 @@ I'm Augusto Pereira Teixeira
 - Spanish
 
 # [Free as in Freedom](https://www.fsf.org/)
-<img src="./assets/tux_huge.png" width="20" />
+<img src="./assets/tux_huge.png" style="margin: 0 auto" width="200" />

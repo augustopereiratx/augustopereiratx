@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello!
+I'm Augusto Pereira Teixeira
 
-<!--
-**augustopereiratx/augustopereiratx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+- HTML
+- CSS
+- JavaScript, Java, PHP, JSP, C, C++, C Sharp (Unity), MySQL (not very good with this one)
 
-Here are some ideas to get you started:
+## My main OS and main PC
+- Artix Linux (w/ Windows partition for a single game)
+- Motherboard: B450M DS3H V2
+- CPU: Ryzen 5 3600
+- RAM: 16Gb HyperX 2666MHz
+- GPU: Nvidia GTX 1660 Super (Zotac)
+- Storage: 1Tb SSD, 1Tb HDD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education:
+- 2018-2021: Completed High school with an IT course in Guarulhos, Brazil
+- 2023-2027: Studying Computer Science in university.
+
+## Fluent in
+- Portuguese (mother language)
+- English
+- Spanish
+
+# [Free as in Freedom](https://www.fsf.org/)
+![Linux's mascot, Tux](assets/tux_huge.png)

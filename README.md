@@ -24,4 +24,4 @@ I'm Augusto Pereira Teixeira
 - Spanish
 
 # [Free as in Freedom](https://www.fsf.org/)
-![Linux's mascot, Tux](assets/tux_huge.png)
+<img src="./assets/tux_huge.png" width="20" />

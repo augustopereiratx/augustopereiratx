@@ -1,27 +1,38 @@
-# Hello!
-I'm Augusto Pereira Teixeira
+<h1 align="center">Hello!</h1>
 
-## Languages
-- HTML
-- CSS
-- JavaScript, Java, PHP, JSP, C, C++, C Sharp (Unity), MySQL (not very good with this one)
+<p align="center">I'm Augusto Pereira Teixeira, a Brazilian computer science student in university.</p>
 
-## My main OS and main PC
-- Artix Linux (w/ Windows partition for a single game)
-- Motherboard: B450M DS3H V2
-- CPU: Ryzen 5 3600
-- RAM: 16Gb HyperX 2666MHz
-- GPU: Nvidia GTX 1660 Super (Zotac)
-- Storage: 1Tb SSD, 1Tb HDD
+<h2 align="center">Programming</h2>
+<ul>
+    <li>HTML, CSS, JavaScript</li>
+    <li>Java</li>
+    <li>Python</li>
+    <li>C, C++</li>
+    <li>PHP, JSP, MySQL, C Sharp (Unity) (Years since last used)</li>
+</ul>
 
-## Education:
-- 2018-2021: Completed High school with an IT course in Guarulhos, Brazil
-- 2023-2027: Studying Computer Science in university.
+<h2 align="center">Education</h2>
+<ul>
+    <li>2018-2021: Completed High school with an IT course in Guarulhos, Brazil</li>
+    <li>2023-2027: Studying Computer Science in university.</li>
+</ul>
+<h2 align="center">Fluent in</h2>
+<ul>
+    <li>Portuguese (mother language)</li>
+    <li>English</li>
+    <li>Spanish</li>
+    I want to learn more when I have the time
+</ul>
 
-## Fluent in
-- Portuguese (mother language)
-- English
-- Spanish
-
-# [Free as in Freedom](https://www.fsf.org/)
-<img src="./assets/tux_huge.png" style="margin: 0 auto" width="200" />
+<h2 align="center"> Contact Me </h2>
+<p align="center">
+    <a href="https://mastodon.social/@augustotx">
+        <img src="assets/social/macchiato_mastodon.svg" width="64" height="64" alt="Mastodon Logo"/>
+    </a>
+    <a href="https://reddit.com/u/AugustBrasilien">
+        <img src="assets/social/macchiato_reddit.svg" width="64" height="64" alt="Reddit Logo"/>
+    </a>
+    <a href="https://lemmygrad.ml/u/augusto">
+        <img src="assets/social/macchiato_lemmy.svg" width="64" height="64" alt="Lemmy Logo"/>
+    </a>
+</p>
